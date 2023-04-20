@@ -20,15 +20,15 @@ export default {
     startTradingNote: 'Start Trading on Helix Now',
     whyTradeOnHelix: 'Why Trade on Helix',
     decentralizedWithAdvancedTypeOrders:
-      'Decentralized exchange with advanced order types',
+      'Trade with ease on our premier decentralized orderbook exchange',
     enjoySpotTrading:
       'Enjoy trading spot and perpetual markets on the premier front-running resistant decentralized orderbook exchange using stop-loss and take-profit orders.',
-    lowFees: 'Minimal fees for maximum benefits and rewards',
+    lowFees: 'Maximum benefits and rewards with minimal fees',
     zeroGasFees:
       'Zero gas fees, low taker fees and highly competitive maker fee rebates for the best trading experience amongst all exchanges.',
     crossChainAssets: 'Cross-chain assets and novel markets',
     seamlesslyTransferAssets:
-      'Seamlessly transfer assets from Ethereum and Cosmos networks to trade popular markets as well as unique markets not available elsewhere.',
+      'Trade across different chains and discover unique markets with Parallel Exchange. Transfer assets from Ethereum and Cosmos networks to access popular markets not available elsewhere',
     getStarted: 'Get Started in 3 Simple Steps',
     howToBridge: 'Transfer assets to begin',
     injective: 'INJECTIVE',
