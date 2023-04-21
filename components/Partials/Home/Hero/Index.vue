@@ -12,7 +12,7 @@
           />
         </div>
         <div class="col-span-3 flex gap-2 w-max items-center mt-6 md:mt-0">
-          <span class="text-gray-775 text-sm md:text-base">
+          <span class="text-#6600cc text-sm md:text-base">
             {{ $t('home.builtOn') }}
           </span>
           <AssetInjective class="w-20 md:w-28" />
