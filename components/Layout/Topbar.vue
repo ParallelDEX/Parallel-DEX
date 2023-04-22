@@ -109,7 +109,7 @@ function handleShowNinjaPassModal() {
       </div>
     </div>
     <button
-      class="px-4 border-r border-gray-600 text-gray-200 lg:hidden"
+      class="px-4 border-r border-gray-600 text-white lg:hidden"
       @click.stop="handleSidebarToggle"
     >
       <BaseIcon v-if="isSidebarOpen" name="close" class="w-6 h-6" />
