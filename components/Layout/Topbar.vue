@@ -70,7 +70,7 @@ function handleShowNinjaPassModal() {
       class="cursor-pointer pl-6 lg:pr-6 lg:border-r flex items-center"
       @click="router.push({ name: 'index' })"
     >
-      <AssetLogo class="w-auto h-6 lg:h-[30px]" alt="Parallel" />
+      <AssetLogo class="w-auto h-14 lg:h-[30px]" alt="Parallel" />
     </div>
     <div class="flex-1 px-2 lg:px-6 flex justify-end lg:justify-between">
       <div
