@@ -22,10 +22,10 @@ export default {
     userFeedback: {
       loveFeedback: "We'd love to hear your feedback!",
       thankYouBeginning:
-        'Thank you for using Helix. We are constantly improving our products for our users and we’d love to hear from you! The survey should take fewer than ',
+        'Thank you for using Parallel. We are constantly improving our products for our users and we’d love to hear from you! The survey should take fewer than ',
       threeMinutes: '3 minutes ',
       thankYouEnd:
-        'to complete and the information will help us know how to improve your future experience on Helix.',
+        'to complete and the information will help us know how to improve your future experience on Parallel.',
       takeSurvey: 'Take the survey',
       notRightNow: 'Not right now'
     }
