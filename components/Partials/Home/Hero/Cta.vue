@@ -30,7 +30,7 @@ function handleTradeClickedTrack() {
 <template>
   <div class="flex flex-col sm:block">
     <div class="flex items-center justify-start mb-8">
-      <AssetLogo class="w-auto h-6" alt="Helix" />
+      <AssetLogo  alt="Helix" />
       <AssetLogoText class="block ml-2 h-6 text-gray-900" />
     </div>
     <h1
