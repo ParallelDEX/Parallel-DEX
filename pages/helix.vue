@@ -20,7 +20,7 @@ function redirectPage() {
   setTimeout(() => {
     const link = document.createElement('a')
 
-    link.href = 'https://helixapp.com/'
+    link.href = 'https://paralleldex.com/'
     document.body.appendChild(link)
     link.click()
   }, countdownFrom.value * 1000)
